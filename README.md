@@ -1,2 +1,5 @@
 # mosesOS
-Moses Operating System
+
+### Repository link below
+
+# -> https://codeberg.org/SerjeiMikailov/mosesOS
